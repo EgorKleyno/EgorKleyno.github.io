@@ -1,0 +1,17 @@
+body {
+margin-left: 50%
+}
+ul {
+  color: blue;
+}
+img {
+  height: 200px;
+  width: 300px;
+}
+p, li {
+  color: blue;
+  font-size: 15px;
+}
+div {
+  color: purple;
+}
