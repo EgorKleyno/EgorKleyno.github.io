@@ -1,55 +1,55 @@
-.i_m{
+.i_m img {
   margin-left: 250px;
   height: 400px;
 }
 
-h1{
+h1 {
   font-size: 40px;
   color: black;
   text-align: center;
 }
 
-p{
+p {
   font-size: 30px;
 }
 
-ul{
+ul {
   font-size: 30px;
 }
 
-.wrapper{
+.wrapper {
   padding: 10px 0px 50px 0px;
 }
 
-.container{
+.container {
   background-color: #ffffff;
   margin: 0px auto 20px;
   width: 1105px;
   border: 2px groove #ccc;
 }
 
-.contant{
+.contant {
   padding: 25px 150px 50px;
 }
 
-.tel{
+.tel {
   font-size: 30px;
 }
 
-.border{
+.border {
   border-bottom: 2px solid #ccc;
 }
 
-.border1{
+.border1 {
   border-bottom: 2px solid #ccc;
   padding-bottom: 15px;
 }
 
-.cv{
+.cv {
   text-align: center;
 }
 
-.vk{
+.vk {
   font-size: 30px;
   color: blue;
 }
