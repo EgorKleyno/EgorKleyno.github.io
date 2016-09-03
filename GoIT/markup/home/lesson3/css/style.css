@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.logo {
+  margin-top: 28px;
+  margin-left: 43px;
+
+}
+.contacts ul {
+    margin-top:20px;
+    margin-right:33px;
+
+}
+.contacts {
+  float:right;
+}
+.contacts li {
+  font-family: 'Tahoma' , 'sans serif';
+  list-style-type:none;
+  text-decoration:none;
+  display:block;
+  margin-top:12px;
+}
+.bitch {
+  margin:0 auto;
+}
